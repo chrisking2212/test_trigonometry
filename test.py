@@ -5,9 +5,9 @@ import numpy as np
 def circum(r):
     return 2*np.pi*r
 
-print(circum(2))
+#print(circum(2))
 
 def area(r):
     return np.pi*r*r
 
-print(area(3))
+#print(area(3))
